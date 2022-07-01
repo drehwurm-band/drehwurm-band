@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Drehwurm</title>
+    <link>https://drehwurm.band/events/</link>
+    <description>Recent content in Events on Drehwurm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <managingEditor>info@drehwurm.band (Drehwurm)</managingEditor>
+    <webMaster>info@drehwurm.band (Drehwurm)</webMaster>
+    <lastBuildDate>Fri, 03 Sep 2021 20:00:00 +0200</lastBuildDate><atom:link href="https://drehwurm.band/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 Dresden</title>
+      <link>https://drehwurm.band/events/2021-dresden/</link>
+      <pubDate>Fri, 03 Sep 2021 20:00:00 +0200</pubDate>
+      <author>info@drehwurm.band (Drehwurm)</author>
+      <guid>https://drehwurm.band/events/2021-dresden/</guid>
+      <description>Testtestraloitsnoarsnt
+        if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-0&#34;); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox( jQuery.extend({}, { } ) ); }); gallery.justifiedGallery({ rowHeight : &#34;150&#34;, margins : &#34;5&#34;, border : 0, waitThumbnailsLoad : false, lastRow : &#34;</description>
+    </item>
+    
+  </channel>
+</rss>
