@@ -15,8 +15,7 @@
       <pubDate>Fri, 03 Sep 2021 20:00:00 +0200</pubDate>
       <author>info@drehwurm.band (Drehwurm)</author>
       <guid>https://drehwurm.band/events/2021-dresden/</guid>
-      <description>Testtestraloitsnoarsnt
-        if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-0&#34;); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox( jQuery.extend({}, { } ) ); }); gallery.justifiedGallery({ rowHeight : &#34;150&#34;, margins : &#34;5&#34;, border : 0, waitThumbnailsLoad : false, lastRow : &#34;</description>
+      <description>Testtestraloitsnoarsnt</description>
     </item>
     
   </channel>
