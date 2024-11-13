@@ -4,29 +4,15 @@
     <title>Drehwurm</title>
     <link>https://drehwurm.band/</link>
     <description>Recent content on Drehwurm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <managingEditor>info@drehwurm.band (Drehwurm)</managingEditor>
-    <webMaster>info@drehwurm.band (Drehwurm)</webMaster>
-    <lastBuildDate>Fri, 03 Sep 2021 20:00:00 +0200</lastBuildDate><atom:link href="https://drehwurm.band/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2021 Dresden</title>
-      <link>https://drehwurm.band/events/2021-dresden/</link>
-      <pubDate>Fri, 03 Sep 2021 20:00:00 +0200</pubDate>
-      <author>info@drehwurm.band (Drehwurm)</author>
-      <guid>https://drehwurm.band/events/2021-dresden/</guid>
-      <description>Testtestraloitsnoarsnt</description>
-    </item>
-    
+    <atom:link href="https://drehwurm.band/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum</title>
       <link>https://drehwurm.band/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@drehwurm.band (Drehwurm)</author>
       <guid>https://drehwurm.band/impressum/</guid>
-      <description>Ein paar legale Dinge
-Angaben gem. § 5 TMG: Drehwurm c/o Nico Westerbeck Kolberger Platz 2 14199 Berlin Kontaktaufnahme: E-Mail: &amp;#32;&amp;#32; oder &amp;#32;&amp;#32; Haftungsausschluss – Disclaimer: Haftung für Inhalte Alle Inhalte unseres Internetauftritts wurden mit größter Sorgfalt und nach bestem Gewissen erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+      <description>&lt;p&gt;&lt;em&gt;Ein paar legale Dinge&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;angaben-gem--5-tmg&#34;&gt;Angaben gem. § 5 TMG:&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Drehwurm&#xA;c/o Nico Westerbeck&#xA;Kolberger Platz 2&#xA;14199 Berlin&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;kontaktaufnahme&#34;&gt;Kontaktaufnahme:&lt;/h2&gt;&#xA;&lt;p&gt;E-Mail: &#xA;&lt;style&gt;&#xA;  #span-71489236.cloaked-e-mail:before {&#xA;    content:attr(data-domain) &#34;\0040&#34; attr(data-user);&#xA;    unicode-bidi:bidi-override;&#xA;    direction:rtl;&#xA;  }&#xA;&lt;/style&gt;&#xA;&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;retsambew&#34; data-domain=&#34;dnab.mruwherd&#34; id=&#34;span-71489236&#34;&gt;&lt;/span&gt;&amp;#32;&#xA;&#xA;&lt;script id=&#34;script-71489236&#34;&gt;&#xA;  var scriptTag = document.getElementById(&#34;script-71489236&#34;);&#xA;  var link = document.createElement(&#34;a&#34;);&#xA;  var address = &#34;retsambew&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;dnab.mruwherd&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);&#xA;  link.href = &#34;mailto&#34; + &#34;:&#34; + address;&#xA;  &#xA;  link.innerText = address.split(&#39;?&#39;)[0];&#xA;  &#xA;  &#xA;  scriptTag.parentElement.insertBefore(link, scriptTag.previousElementSibling);&#xA;  scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)&#xA;&lt;/script&gt;&#xA;&#xA; oder &#xA;&lt;style&gt;&#xA;  #span-9e81a064.cloaked-e-mail:before {&#xA;    content:attr(data-domain) &#34;\0040&#34; attr(data-user);&#xA;    unicode-bidi:bidi-override;&#xA;    direction:rtl;&#xA;  }&#xA;&lt;/style&gt;&#xA;&amp;#32;&lt;span class=&#34;cloaked-e-mail&#34; data-user=&#34;ofni&#34; data-domain=&#34;dnab.mruwherd&#34; id=&#34;span-9e81a064&#34;&gt;&lt;/span&gt;&amp;#32;&#xA;&#xA;&lt;script id=&#34;script-9e81a064&#34;&gt;&#xA;  var scriptTag = document.getElementById(&#34;script-9e81a064&#34;);&#xA;  var link = document.createElement(&#34;a&#34;);&#xA;  var address = &#34;ofni&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;) + &#34;@&#34; + &#34;dnab.mruwherd&#34;.split(&#39;&#39;).reverse().join(&#39;&#39;);&#xA;  link.href = &#34;mailto&#34; + &#34;:&#34; + address;&#xA;  &#xA;  link.innerText = address.split(&#39;?&#39;)[0];&#xA;  &#xA;  &#xA;  scriptTag.parentElement.insertBefore(link, scriptTag.previousElementSibling);&#xA;  scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)&#xA;&lt;/script&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
